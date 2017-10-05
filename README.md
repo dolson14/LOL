@@ -39,5 +39,5 @@ The text of this license is being released under the Unlicense, and so should
 be considered free for use with no restrictions or requirements. I'm putting it
 here simply to formalize the idea. While I have no way to contact the person
 who originated the idea, I'll publicly express my gratitude to that person,
-whomever you are. I have changed a few things to make it flow better when 
+whoever you are. I have changed a few things to make it flow better when 
 combining with other licenses and to formalize the language a bit.
